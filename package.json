@@ -1,5 +1,5 @@
 {
-  "name": "ethr-did-resolver",
+  "name": "@extrimian/ethr-did-resolver",
   "version": "4.3.4",
   "description": "Resolve DID documents for ethereum addresses and public keys",
   "source": "src/index.ts",
